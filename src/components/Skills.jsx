@@ -10,13 +10,12 @@ function Skills() {
         "Machine Learning",
         "Deep Learning",
         "LLMs",
-        "Generative AI",
         "Agentic AI",
       ],
     },
     {
-      title: "Frameworks & Libraries",
-      skills: ["React", "LangChain", "LangGraph", "Ollama"],
+      title: "Core Computer Science",
+      skills: ["Data Structures & Algorithms","Object-Oriented Programming (OOP)","Database Management Systems (DBMS)"],
     },
     {
       title: "Web Development",

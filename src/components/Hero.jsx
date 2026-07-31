@@ -22,23 +22,27 @@ function Hero() {
           </h1>
 
           <p className="text-xl text-slate-300 mt-6">
-            AI • ML • Software Developer • Problem Solver
+            AI & ML | Software Developer | Problem Solver
           </p>
 
           <p className="text-slate-400 mt-6 max-w-xl leading-8">
             I am a third-year B.Tech Computer Science and Engineering student
             at VIT-AP University with a strong interest in Artificial
             Intelligence, Machine Learning, and Software Development.
-            I enjoy solving problems, exploring new technologies,
-            and building practical applications that solve real-world challenges.
+            
           </p>
 
           <div className="flex gap-4 mt-10">
 
-            <button className="bg-violet-600 hover:bg-violet-700 transition px-6 py-3 rounded-xl flex items-center gap-2 shadow-lg">
-              <FaDownload />
-              Resume
-            </button>
+            <a
+                href="https://drive.google.com/file/d/1aS2XHDA5p3728g9qVk3V-lJsPAuQaV7b/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-violet-600 hover:bg-violet-700 transition px-6 py-3 rounded-xl flex items-center gap-2 shadow-lg w-fit"
+            >
+                <FaDownload />
+                Resume
+            </a>
 
            
 

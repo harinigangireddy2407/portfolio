@@ -18,6 +18,7 @@ function Certificates() {
           and my commitment to continuous learning.
         </p>
 
+
         <div className="mt-16">
 
           <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 hover:border-violet-500 transition-all duration-300">
@@ -46,9 +47,9 @@ function Certificates() {
                 </div>
 
                 <p className="text-slate-400 leading-8 mt-6">
-                  Successfully completed the IBM Agentic AI certification,
-                  gaining practical experience in AI Agents, LLMs, Prompt
-                  Engineering, Agentic AI workflows, and intelligent automation.
+                  Successfully completed the IBM Agentic AI certification, gaining hands-on 
+                  experience in AI agents, prompt engineering, and building intelligent workflows 
+                  using modern AI technologies.
                 </p>
 
                 <div className="flex flex-wrap gap-3 mt-6">
